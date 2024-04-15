@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gonçalo</h1>
+<h1 align="center">Hi, I'm Gonçalo</h1>
 <h3 align="center">Junior FullStack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -11,6 +11,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=galvesdesousa&show_icons=true&locale=en&layout=compact" alt="galvesdesousa" /></p>
 
-<img src="https://raw.githubusercontent.com/Galvesdesousa/Galvesdesousa/output/snake.svg" alt="Snake animation" />
 
-###
